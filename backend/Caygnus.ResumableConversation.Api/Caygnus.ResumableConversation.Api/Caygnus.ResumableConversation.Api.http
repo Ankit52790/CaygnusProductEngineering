@@ -1,6 +1,0 @@
-@Caygnus.ResumableConversation.Api_HostAddress = http://localhost:5293
-
-GET {{Caygnus.ResumableConversation.Api_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
